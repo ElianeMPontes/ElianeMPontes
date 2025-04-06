@@ -29,8 +29,7 @@
 
 ### 💼 Projetos em Destaque
 
-- [ClientFlow 📋](https://github.com/Projeto-ClientFlow/ClientFlow.git)  
-  Sistema de CRM focado em gerenciamento de clientes e oportunidades de negócio, com funcionalidades completas de cadastro, atualização de status e organização de dados.
+- [ClientFlow 📋](https://github.com/Projeto-ClientFlow/ClientFlow.git)Sistema de CRM focado em gerenciamento de clientes e oportunidades de negócio, com funcionalidades completas de cadastro, atualização de status e organização de dados.
 
 - [Foodly 🍽️](https://github.com/Projeto-ClientFlow/Foodly.git) 
   Projeto de controle de cardápio e pedidos, com interface amigável e estrutura pensada para restaurantes, usando boas práticas de orientação a objetos.
