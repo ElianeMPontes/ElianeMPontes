@@ -32,10 +32,10 @@
 - [ClientFlow 📋](https://github.com/Projeto-ClientFlow/ClientFlow.git)  
   Sistema de CRM focado em gerenciamento de clientes e oportunidades de negócio, com funcionalidades completas de cadastro, atualização de status e organização de dados.
 
-- [Foodly 🍽️](https://github.com/ElianeMPontes/foodly.gi)  
+- [Foodly 🍽️](https://github.com/ElianeMPontes/foodly.git)  
   Projeto de controle de cardápio e pedidos, com interface amigável e estrutura pensada para restaurantes, usando boas práticas de orientação a objetos.
 
-- [SmartRH 🧠](https://github.com/ElianeMPontes/smartrh.gi)  
+- [SmartRH 🧠](https://github.com/ElianeMPontes/smartrh.git)  
   Sistema para gestão de Recursos Humanos com foco em cadastro e gerenciamento de colaboradores, funções e departamentos.
 
 ---
